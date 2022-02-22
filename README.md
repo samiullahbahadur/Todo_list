@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Link to Live demo]()
+[Link to Live demo](https://samiullahbahadur.github.io/Todo_list/)
 
 Additional description about the project and its features.
 
@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple steps.
 
-- You can clone this repo by typing on your terminal.<pre><code>git clone </code></pre>
+- You can clone this repo by typing on your terminal.<pre><code>git clone https://github.com/samiullahbahadur/Todo_list </code></pre>
 - Type <pre><code>cd To-Do-List</code></pre> to access the project on the terminal
 
 ## Built With
@@ -52,4 +52,4 @@ Give a ⭐️ if you like this project!
 
 ## Report an issue
 
--Go here 👉 [@Link]()
+-Go here 👉 [@Link](https://github.com/samiullahbahadur/Todo_list/issues)
