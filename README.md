@@ -38,7 +38,7 @@ Just download or clone the repo and run the index.html file.
 
 ## Author
 
-👤 **Ridwan**
+👤 **Samiullah Bahadur**
 
 - GitHub: [@githubhandle](https://github.com/samiullahbahadur)
 
