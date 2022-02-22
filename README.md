@@ -1,7 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do List:
-
 ## Live Demo
 
 [Link to Live demo](https://samiullahbahadur.github.io/Todo_list/)
