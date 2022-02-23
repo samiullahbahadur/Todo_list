@@ -18,7 +18,6 @@ To get a local copy up and running follow these simple steps.
 
 ## Built With
 
-- Major languages
 - HTML and CSS
 - Mostly JavaScript
 
